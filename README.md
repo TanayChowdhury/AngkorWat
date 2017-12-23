@@ -18,10 +18,10 @@ Clone or download the project from github repository to a folder in the local sy
 
 ## Executing the project
 ##### Method 1
-*   Double click on the 'Angkor Wat Portfolio.html' file and it will be opened by the system default web browser. 
+*   Double click on the 'index.html' file and it will be opened by the system default web browser. 
 
 ##### Method 2
-*   Drag the 'Angkor Wat Portfolio.html' file and drop over the executable program file of the web browser of desired choice, that is installed in the system.
+*   Drag the 'index.html' file and drop over the executable program file of the web browser of desired choice, that is installed in the system.
 ```bash
 Angkor Wat Portfolio.html
 ```
