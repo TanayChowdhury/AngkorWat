@@ -1,13 +1,13 @@
 # Angkor Wat
 
-[](https://getbootstrap.com/assets/img/bootstrap-stack.png)
-# Build a Portfolio Site
+
+# Build a Site
 HTML, CSS and Javascript codes to build a portfolio site of Angkor Wat, Combodia.
 
 ## Getting Started
 Clone or download the project from github repository to a folder in the local system.
 
-##### Prerequisites
+## Prerequisites
 * Any latest updated HTML5 supporting web browser.
 * The arrangement of files and folder inside the Portfolio folder must be in the same order.
 * No file name(s) should be changed.
@@ -19,14 +19,12 @@ Clone or download the project from github repository to a folder in the local sy
 * img - This folder contains the image files used throughout in the website.
 
 ## Executing the project
-##### Method 1
-*   Double click on the 'index.html' file and it will be opened by the system default web browser. 
+### Method 1
+*   Clone the repository or download the zip file and open the **index.html** file in a browser.
 
 ##### Method 2
-*   Drag the 'index.html' file and drop over the executable program file of the web browser of desired choice, that is installed in the system.
-```bash
-Angkor Wat Portfolio.html
-```
+*   Click on the following hosted link 
+  https://tanaychowdhury.github.io/AngkorWat/
 
 ## Output
 The default/chosen web browser in the local system will open up on completion of any one of the above executing methods and a portfolio website featuring the 'Angkor Wat' will pop up. Clicking on the images will pop-up a window displaying details corresponding to the image.
